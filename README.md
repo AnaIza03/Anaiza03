@@ -22,4 +22,3 @@
 
 Apaixonada(a) por tecnologia, e meu objetivo principal é usar a tecnologia para mudar as vidas das pessoas.
 
-![Snake animation](https://github.com/AnaIza03/AnaIza03/blog/output/github-contribution-grid-snake.svg)
